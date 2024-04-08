@@ -9,6 +9,12 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Download prerequisites
+
+```
+wget https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2net.onnx
+```
+
 ## Build the Docker Image
 
 ```
